@@ -45,7 +45,7 @@ O produto final é um modelo de classificação que pode ser armazenado em cloud
 
 O modelo treinado permite classificar os clientes com relação ao seu interesse em aderir à um seguro veicular baseando-se nos dados de clientes que já possuem o seguro saúde. 
 Em uma escolha aleatória de clientes pelo time de vendas, fazendo as 20000 ligações, apenas 26% dos possíveis interessados em adquirir o seguro seriam contactados. Já em uma 
-escolha seguindo o modelo treinado no projeto, o time de vandas contactaria quase 65% dos interessados. Ou seja, o resultado do modelo é 2,5 vezes melhor que uma escolha 
+escolha seguindo o modelo treinado no projeto, o time de vendas contactaria quase 65% dos interessados. Ou seja, o resultado do modelo é 2,5 vezes melhor que uma escolha 
 aleatória. Considerando que o valor do seguro veicular seja na faixa de 1500, para as porcentagens descritas acima, o modelo faturaria, aproximadamente, 44 milhões a mais 
 que a escolha aleatória.
 
